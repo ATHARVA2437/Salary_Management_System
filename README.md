@@ -1,4 +1,6 @@
 💼 Salary Management System
+
+
 <img width="344" height="180" alt="image" src="https://github.com/user-attachments/assets/76b42f2e-dbc9-469f-bc9d-b1ea57fab327" />
 
 
